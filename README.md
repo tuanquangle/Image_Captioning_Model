@@ -2,6 +2,11 @@
 
 Notebook xây dựng một mô hình **Image Captioning** (tạo mô tả tự động cho ảnh) sử dụng kiến trúc **Encoder-Decoder** kết hợp với **InceptionV3**, **LSTM** và **Attention Mechanism**. Ngoài ra, có **Fine-tune bằng mô hình BLIP (Bootstrapping Language-Image Pretraining)** để so sánh và đánh giá chất lượng.
 
+## File Model:
+- [`LSTM_Attention_cocodataset`](https://drive.google.com/drive/folders/1CpxYu2mXr-c0yLS7nnYCKZPODjiCUFcO?usp=sharing)
+- [`LSTM_Attention_flickr30k`](https://drive.google.com/drive/folders/1aSTWl6TaBAmlClRYlrK4eT30G_Bq5rLS?usp=sharing)
+- [`blip_finetune`](https://drive.google.com/drive/folders/1wnL3Sv2yeROMT8V4SBn8qiI0QolM227j?usp=sharing)
+
 ## Mục tiêu
 Xây dựng hệ thống sinh mô tả tự động cho ảnh, có khả năng hiểu nội dung hình ảnh và mô tả bằng câu văn tự nhiên. Ứng dụng trong:
 
